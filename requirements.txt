@@ -1,6 +1,6 @@
 flask==1.1.1
 spacy==2.2.3
-numpy==1.18.1
+numpy==1.22.0
 gensim==3.8.1
 jsonify==0.5
 requests==2.23.0
