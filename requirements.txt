@@ -3,4 +3,4 @@ spacy==2.2.3
 numpy==1.18.1
 gensim==3.8.1
 jsonify==0.5
-requests==2.23.0
+requests==2.31.0
